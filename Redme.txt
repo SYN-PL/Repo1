@@ -1,9 +1,0 @@
-This is first doc
-
-this is sec doc
-
-this is third..
-this is fourth
-
-this is fifth
- tHis is sixth
