@@ -1,3 +1,3 @@
 microservice: 
   endpoints: 
-    endpoint: 3f1738ccaa798d88f046742144dcdaef9a47545fddb650a47117ffa20a2127d48d1c07473f92c092b2b5ffdc11a8a9b3
+    endpoint: {cipher}3f1738ccaa798d88f046742144dcdaef9a47545fddb650a47117ffa20a2127d48d1c07473f92c092b2b5ffdc11a8a9b3
