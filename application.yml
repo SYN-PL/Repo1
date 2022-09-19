@@ -1,4 +1,3 @@
-active: qa
 microservice: 
   endpoints: 
     endpoint: "https://youtube.default"
