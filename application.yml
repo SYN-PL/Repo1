@@ -1,3 +1,7 @@
 microservice:
  endpoints:
   endpoint: https://youtube.oplo
+  
+spring:
+ profile:
+  active:qa
