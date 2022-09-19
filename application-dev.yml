@@ -1,3 +1,7 @@
+microservice: 
+  endpoints: 
+    endpoint: "https://youtube.dev"
+
 test:
  name:
   dev: Dev World
