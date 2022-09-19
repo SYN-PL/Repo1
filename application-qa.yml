@@ -1,3 +1,6 @@
+microservice: 
+  endpoints: 
+    endpoint: "https://youtube.qa"
 test:
  name:
   uri:hello world
