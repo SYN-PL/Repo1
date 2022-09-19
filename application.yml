@@ -1,5 +1,4 @@
-microservice:
- endpoints:
-  endpoint: https://youtube.oplo
-  
-active:qa
+active: qa
+microservice: 
+  endpoints: 
+    endpoint: "https://youtube.oplo"
